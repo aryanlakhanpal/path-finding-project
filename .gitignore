@@ -50,3 +50,4 @@ package.*
 package-lock.json
 next.*
 eslint.*
+.*
